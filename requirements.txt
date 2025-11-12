@@ -1,0 +1,21 @@
+# Core data analysis
+pandas
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine learning (selon la direction que tu prendras)
+scikit-learn
+
+# Optionnel : NLP / texte (si les données contiennent des descriptions ou titres de livres)
+nltk
+spacy
+
+# Optionnel : pour gestion de modèles plus avancés
+xgboost
+lightgbm
+
+# Jupyter (si tu travailles en notebook)
+jupyter
